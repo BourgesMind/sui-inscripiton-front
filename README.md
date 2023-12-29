@@ -1,1 +1,1 @@
-# sui-inscripiton-front
+# react-ts-tailwind-starter
