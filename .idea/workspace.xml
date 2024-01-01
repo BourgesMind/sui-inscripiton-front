@@ -6,10 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="74b6e503-d977-440e-b59a-dd617782ab30" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/Main.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/siteMetadata.js" beforeDir="false" afterPath="$PROJECT_DIR$/data/siteMetadata.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/WalletTopRight/XDagHubWallet.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/WalletTopRight/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/WalletTopRight/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704099518789</updated>
-      <workItem from="1704099521326" duration="8949000" />
+      <workItem from="1704099521326" duration="11847000" />
     </task>
     <servers />
   </component>

@@ -1,12 +1,12 @@
 'use client'
 import React from "react";
 import {WalletStandardProvider} from '@wallet-standard/react';
-import XDagWalletTopRight from "@/components/WalletTopRight/XDagHubWallet";
+import SuiWalletTopRight from "@/components/WalletTopRight/SuiWalletTopRight";
 
 const WalletTopRight = () => {
     return (
         <WalletStandardProvider>
-            <XDagWalletTopRight></XDagWalletTopRight>
+            <SuiWalletTopRight></SuiWalletTopRight>
         </WalletStandardProvider>
     )
 }
