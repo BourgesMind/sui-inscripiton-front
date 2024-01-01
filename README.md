@@ -1,2 +1,4 @@
 
-# sui-inscripiton-front Readme.md
+
+
+project is a front for sui inscription 
