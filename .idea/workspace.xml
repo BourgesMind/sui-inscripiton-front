@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="74b6e503-d977-440e-b59a-dd617782ab30" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/WalletTopRight/SuiWalletTopRight.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/WalletTopRight/SuiWalletTopRight.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/about/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/about/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,8 @@
       <workItem from="1704197837008" duration="2718000" />
       <workItem from="1704245007296" duration="105000" />
       <workItem from="1704362518074" duration="1041000" />
-      <workItem from="1704409607193" duration="3038000" />
+      <workItem from="1704409607193" duration="6124000" />
+      <workItem from="1704464063011" duration="3029000" />
     </task>
     <servers />
   </component>

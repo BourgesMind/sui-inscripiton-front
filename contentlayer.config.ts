@@ -24,7 +24,7 @@ import { allCoreContent, sortPosts } from 'pliny/utils/contentlayer.js'
 
 let pathCwd = process.cwd().replace( /\\/g, "/" );
 if ( !pathCwd.includes( "XDagPortal" ) ) {
-	pathCwd += "XDagPortal/"
+	pathCwd += "/"
 }
 const root = pathCwd
 console.log('....cwd:', pathCwd)
